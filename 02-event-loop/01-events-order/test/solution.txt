@@ -2,8 +2,5 @@ James
 Richard
 John
 Robert
-Michael
 James
-
-
-Знаю что неправильно последние два пункта но не могу понять почему.
+Michael
